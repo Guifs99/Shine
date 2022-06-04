@@ -3,7 +3,42 @@ guid: aeda9d408fed5984bae2a491e03bd445
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 03e2d8d0db133ee4587610423b41a168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colar
+    second: {fileID: 2100000, guid: 56f335d1268a3be49a1301d842d285d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branco
+    second: {fileID: 2100000, guid: 9e4c3c6b603a03d4d9f37b236488becf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: c9a727320445a5548a746084fff986f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_lampada
+    second: {fileID: 2100000, guid: 57084f6c44ed81b4b84cb0fd80b74b9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roupa
+    second: {fileID: 2100000, guid: 292f481a92ec15c4bb93712d876ebaa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vidro
+    second: {fileID: 2100000, guid: 1dd30f61c71e63c46b59f4f51b13b19c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
